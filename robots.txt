@@ -1,0 +1,14 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+
+Disallow: /tags/
+Disallow: /js/
+Disallow: /css/
+Disallow: /assets/
+Disallow: /categories/
+Disallow: /guestbook/
+
+Sitemap: http://www.vichily.com/sitemap.xml
+Sitemap: http://www.vichily.com/baidusitemap.xml
